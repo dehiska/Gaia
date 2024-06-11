@@ -15,7 +15,7 @@ Virtual Assistant to help with your environmental needs.
 ## mac
 source venv/bin/activate
 ## windows
-/venv/Scripts/Activate
+.\venv\Scripts\Activate
 
 # Install requirments.txt
 pip install -r requirements.txt
